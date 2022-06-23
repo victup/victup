@@ -31,6 +31,6 @@
   <a href="https://www.linkedin.com/in/v%C3%ADctor-gon%C3%A7alves-44264a181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
   
-  ![Snake animation](https://github.com/rafaballerini/victup/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/victup/victup/blob/output/github-contribution-grid-snake.svg)
 
  
