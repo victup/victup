@@ -1,7 +1,7 @@
 ## Olá, eu sou o Víctor! 👋
 
 
-- 🔭 Hoje eu trabalho com Full Stack
+- 🔭 Full Stack em Desenvolvimento
 - 🌱 Estudando Engenharia de Software
 
 <div align="center">
