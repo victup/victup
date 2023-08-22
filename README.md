@@ -1,8 +1,8 @@
 ## Olá, eu sou o Víctor! 👋
 
 
-- 🔭 Full Stack em Desenvolvimento
-- 🌱 Estudando Engenharia de Software
+- 🔭 Full Stack
+- 🌱 Engenheiro de Software
 
 <div align="center">
   <a href="https://github.com/victup">
